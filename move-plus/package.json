@@ -1,0 +1,16 @@
+
+{
+  "name": "move-plus",
+  "version": "1.0.0",
+  "description": "Projeto da academia Move Plus",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
